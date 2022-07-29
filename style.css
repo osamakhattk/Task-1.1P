@@ -1,0 +1,28 @@
+.centered{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.anything{
+    font-size: 20;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);   
+}
+
+.nav{
+    color: lightblue;
+    font-style: bold;
+}
+
+body {
+    font-family: Arial;
+    text-align: center;
+    position: relative;
+}
+
+img{
+    padding: 10px;
+}
